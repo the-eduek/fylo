@@ -342,7 +342,7 @@ footer .attribution a {
     -webkit-box-direction: reverse;
         -ms-flex-direction: row-reverse;
             flex-direction: row-reverse;
-    padding: 0 5rem 2rem;
+    padding: 2rem 5rem;
   }
   .landing .landing__image {
     -webkit-box-flex: 1;
@@ -424,7 +424,7 @@ footer .attribution a {
   }
   .get-started {
     text-align: left;
-    padding: 5rem;
+    padding: 2rem 5rem;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -470,7 +470,7 @@ footer .attribution a {
             align-items: flex-start;
     -ms-flex-wrap: wrap;
         flex-wrap: wrap;
-    padding: 2rem 5rem;
+    padding: 5rem;
   }
   footer .column--logo {
     width: 100%;
